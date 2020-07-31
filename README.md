@@ -1,4 +1,4 @@
-### Hi there 👋
+### Focus & Concentrate 🌱
 
 <!--
 **EvanLyu732/EvanLyu732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
