@@ -1,6 +1,8 @@
-### Focus & Concentrate 🌱
-<br/><br/>
+##  🦄 Systems for ML
+<br></br>
+🤖 Programming for fun. Wish you solve interesting problem.
 
+<br></br>
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6p3x33oa0x0tbc08u2v8n9e7o&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
