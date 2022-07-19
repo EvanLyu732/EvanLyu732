@@ -1,11 +1,7 @@
-##  🦄 Systems for ML
-<br></br>
-🤖 Programming for fun. Wish you solve interesting problem.
+### 👋 Hi, This is Evan Lyu 👨🏻‍💻
 
-<br></br>
+<a href="https://google.com"><img src="https://github.com/EvanLyu732/EvanLyu732/blob/master/devcard.svg" width="200" alt="Evan Lyu's Dev Card"/></a>
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=6p3x33oa0x0tbc08u2v8n9e7o&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **EvanLyu732/EvanLyu732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
