@@ -1,6 +1,6 @@
 ### 👋 Hi, This is Evan Lyu 👨🏻‍💻
 
-<a href="https://google.com"><img src="https://github.com/EvanLyu732/EvanLyu732/blob/master/devcard.svg" width="200" alt="Evan Lyu's Dev Card"/></a>
+
 
 
 <!--
